@@ -1,2 +1,2 @@
 # LaboratoryWorkOOP1.2-variant-3-
-class vector(distance, angle, buildfunction) use frend-function
+class vector(distance, angle, buildfunction) use friend-function
